@@ -1,25 +1,19 @@
-# Blur Pro
+Annotaty Pro
+The Ultimate Professional Annotation & Privacy Suite
+Annotaty Pro is a high-performance browser extension developed by J. Taichi LABS. Designed for professionals, developers, and educators, it transforms your browser into a live canvas. Effortlessly draw, mark up, and obscure sensitive data in real-time—perfect for screen sharing, video tutorials, and technical reviews.
 
-### The Ultimate Privacy Tool for Browser Screen Sharing
+![Annotaty Pro Interface](./assets/preview.png)
 
-**Blur Pro** is a privacy-focused browser extension developed by **J. Taichi LABS**. It allows professionals, content creators, and developers to selectively obscure sensitive information on any webpage before sharing their screen or taking screenshots.
+Core Features
+🎨 Professional Drawing Suite: Create arrows, shapes, text boxes, and numbered step markers directly on any webpage.
 
-![Blur Pro Interface](https://via.placeholder.com/800x400?text=Blur+Pro+Extension+Preview)
-*(Note: Screenshot of the extension UI is coming soon)*
+🚫 Precision Privacy Blur: Instantly obscure sensitive info with Blur, Pixelate, or Blackout modes.
 
-## Core Features
+🎯 Snap-to-Element: One click to hide any distraction on the web. Work like "Hide distraction" on Safari.
 
-* **🚫 Instant Redaction:** Click and drag to blur any text, image, or element instantly.
-* **🔒 Security First:** Your data never leaves your browser. All processing is local.
-* **🎨 Advanced Styles:** Choose from **Blur**, **Pixelate**, or **Blackout** modes to fit your needs.
-* **⚡️ Quick Toggle:** Use hotkeys (`Esc`, `Cmd+Z`) for a seamless workflow.
+🔒 Privacy-First: All processing happens locally in your browser. Your annotations and data never touch a server.
 
-## Pricing & Support
+✨ Glassmorphic UI: A beautiful, non-intrusive sidebar that docks to your page without breaking the layout.
 
-Blur Pro offers a free tier with essential blurring capabilities. Advanced features (Pixelate, Blackout, Floating Mode) are available via a one-time "Pro" upgrade.
-
-**Developed by J. Taichi LABS**
-*Tokyo, Japan*
-
----
-*For support inquiries, please contact us via the Chrome Web Store support tab.*
+Pricing & Support
+Annotaty offers a 5-use Free Trial of all premium tools. Unlock unlimited annotations, advanced shapes, and the exclusive "Glowing" theme with a one-time Pro upgrade.
